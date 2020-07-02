@@ -4,9 +4,9 @@
 
 ```json
 {
-  "id": string, //AUTO GENERATED - UNIQUE
-  "name": string, //REQUIRED
-  "body": string //REQUIRED
+  "id": "string - AUTO GENERATED - UNIQUE",
+  "name": "string - REQUIRED", 
+  "body": "string - REQUIRED"
 }
 ```
 
@@ -28,8 +28,8 @@ expects following JSON structure<br />
 
 ```json
 {
-  "name": string, //REQUIRED
-  "body": string //REQUIRED
+  "name": "string - REQUIRED", 
+  "body": "string - REQUIRED"
 }
 ```
 
@@ -41,8 +41,8 @@ expects following JSON structure
 
 ```json
 {
-  "name": string, //REQUIRED
-  "body": string //REQUIRED
+  "name": "string - REQUIRED", 
+  "body": "string - REQUIRED"
 }
 ```
 
