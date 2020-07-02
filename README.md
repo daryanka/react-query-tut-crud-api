@@ -1,6 +1,6 @@
 ## API Documentation
 
-###Post Structure
+### Post Structure
 
 ```json
 {
